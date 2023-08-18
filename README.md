@@ -1,12 +1,16 @@
 # Consumer-goods-SQL-project
 Consumer goods SQL  project
+
 Introduction
+
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
 Task
+
 The task is to build SQL query to answer 10 ad hoc requests for which the business needs insights and create a presentation to show the insights to the top-level management.
 
 Data
+
 The database have 6 tables.
 There are 2 dimension tables and 4 fact tables.
 The dimension tables are: dim_customer: contains customer-related data dim_product: contains product-related data
@@ -15,6 +19,7 @@ Tools:
 MySQL, Power BI, Power Point presentation.
 
 Workflow
+
 Importing dataset in MySQL and Understanding the ad-hoc requests and the dataset using metadata file.
 Answering the ad-hoc requests using SQL queries.
 Finding the insight from Output and built visualizations in Power BI.
@@ -22,6 +27,7 @@ Created PPT to present insights to the stakeholders.
 
 
 Insights got from the SQL queries:
+
 APAC region, AtliQ Exclusive operates its business in India, Indonesia, Japan, Phillipines, South Korea, Australia, New Zealand and Bangladesh.
 
 89 new products were added in 2021. So, percentage of unique product increase is 36.33%.
