@@ -15,7 +15,9 @@ The database have 6 tables.
 There are 2 dimension tables and 4 fact tables.
 The dimension tables are: dim_customer: contains customer-related data dim_product: contains product-related data
 The fact tables are: fact_gross_price: contains gross price information for each product fact_manufacturing_cost: contains the cost incurred in the production of each product fact_pre_invoice_deductions: contains pre-invoice deductions information for each product fact_sales_monthly: contains monthly sales data for each product.
+
 Tools:
+
 MySQL, Power BI, Power Point presentation.
 
 Workflow
